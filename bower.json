@@ -1,0 +1,16 @@
+{
+  "name": "expressapp",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Qing <shengoo@hotmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "dependencies": {
+    "angular": "angularjs#1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-route": "1.4.8"
+  }
+}
